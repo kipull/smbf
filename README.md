@@ -2,7 +2,7 @@
 
  SKY Multi Brute Facebook
 
-git clone https://github.com/SFFAJAR/vmbf
+git clone https://github.com/SFFAJAR/smbf
 
 cd vmbf
 
