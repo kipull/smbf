@@ -4,7 +4,7 @@
 
 git clone https://github.com/SFFAJAR/smbf
 
-cd vmbf
+cd smbf
 
 git pull
 
