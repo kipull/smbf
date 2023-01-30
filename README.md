@@ -9,3 +9,5 @@ cd smbf
 git pull
 
 python run.py
+
+# Paid
